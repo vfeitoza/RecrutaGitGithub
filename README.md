@@ -1,4 +1,4 @@
 RecrutaGitGithub
 ================
 
-Repositorio de exemplo
+Repositorio de exemplo para aulas com git
